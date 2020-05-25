@@ -12,8 +12,8 @@
 
 ## References: 
 
-[1. https://www.circuito.io/](https://www.circuito.io/)
-[2. https://www.instructables.com/id/1986-Raspberry-Pi-Video-Doorbell/](https://www.instructables.com/id/1986-Raspberry-Pi-Video-Doorbell/)
-[3. https://github.com/MisterEmm/pingdoorbell](https://github.com/MisterEmm/pingdoorbell)
-[4. https://github.com/PyUserInput/PyUserInput](https://github.com/PyUserInput/PyUserInput)
-[5. https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all](https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all)
+1. [https://www.circuito.io/](https://www.circuito.io/)
+2. [https://www.instructables.com/id/1986-Raspberry-Pi-Video-Doorbell/](https://www.instructables.com/id/1986-Raspberry-Pi-Video-Doorbell/)
+3. [https://github.com/MisterEmm/pingdoorbell](https://github.com/MisterEmm/pingdoorbell)
+4. [https://github.com/PyUserInput/PyUserInput](https://github.com/PyUserInput/PyUserInput)
+5. [https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all](https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all)
